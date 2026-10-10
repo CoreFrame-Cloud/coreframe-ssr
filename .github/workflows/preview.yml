@@ -1,0 +1,7 @@
+name: Preview Deploy
+on:
+  pull_request:
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps: [checkout, echo "Preview deploy step — build and deploy preview URL for PR. See child task t_0f4eeba1 / deploy pipeline."]

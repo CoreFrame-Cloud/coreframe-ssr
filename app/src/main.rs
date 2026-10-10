@@ -1,1 +1,16 @@
-fn main() { println!("Hello CoreFrame"); }
+use leptos::*;
+
+fn main() {
+    console_error_panic_hook::set_once();
+    leptos::mount_to_body(|| view! { <App/> })
+}
+
+#[component]
+fn App() -> impl IntoView {
+    view! {
+        <main>
+            <h1>"CoreFrame SSR — Leptos + Hydration"</h1>
+            <p>"Rust SSR scaffold ready for deployment."</p>
+        </main>
+    }
+}

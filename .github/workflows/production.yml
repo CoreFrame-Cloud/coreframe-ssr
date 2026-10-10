@@ -1,0 +1,8 @@
+name: Production Deploy
+on:
+  push:
+    branches: [main]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps: [checkout, echo "Production deploy step — deploy to production. See child deploy pipeline task."]
