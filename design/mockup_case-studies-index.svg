@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="100%" height="100%">
+  <rect width="1280" height="720" fill="#0a0a0f"/>
+  <text x="640" y="120" text-anchor="middle" fill="#c8a96e" font-size="42" font-family="serif">Case Studies — Index (desktop 1280)</text>
+  <text x="640" y="200" text-anchor="middle" fill="#e4e4e8" font-size="16">Grid of 3 featured case cards</text>
+  <g transform="translate(80,300)">
+    <rect width="360" height="240" rx="16" fill="#12121a" stroke="#c8a96e" stroke-width="1"/>
+    <text x="180" y="140" text-anchor="middle" fill="#e4e4e8">Case card A</text>
+  </g>
+  <g transform="translate(520,300)">
+    <rect width="360" height="240" rx="16" fill="#12121a" stroke="#e07a5f" stroke-width="1"/>
+    <text x="180" y="140" text-anchor="middle" fill="#e4e4e8">Case card B</text>
+  </g>
+  <g transform="translate(960,300)">
+    <rect width="360" height="240" rx="16" fill="#12121a" stroke="#c8a96e" stroke-width="1"/>
+    <text x="180" y="140" text-anchor="middle" fill="#e4e4e8">Case card C</text>
+  </g>
+</svg>

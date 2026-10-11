@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 812" width="100%" height="100%">
+  <rect width="375" height="812" fill="#0a0a0f"/>
+  <text x="187" y="400" text-anchor="middle" fill="#c8a96e" font-size="22">Home — Mobile 375</text>
+  <rect x="24" y="480" width="327" height="120" rx="16" fill="#12121a" stroke="#e07a5f" stroke-width="1"/>
+  <text x="187" y="540" text-anchor="middle" fill="#e4e4e8" font-size="14">Pillar card (mobile)</text>
+</svg>

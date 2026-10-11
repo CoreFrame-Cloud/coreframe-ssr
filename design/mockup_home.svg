@@ -1,0 +1,33 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1280' height='820' viewBox='0 0 1280 820'>
+  <rect width='1280' height='820' fill='#faf9f6'/>
+  <!-- nav -->
+  <rect x='0' y='0' width='1280' height='72' fill='#0a0a0f'/>
+  <text x='40' y='30' fill='#faf9f6' font-family='serif' font-size='22'>CoreFrame</text>
+  <text x='1100' y='30' fill='#c8a96e' font-size='13' font-family='sans-serif' letter-spacing='0.08em'>CONTACT</text>
+  <!-- hero -->
+  <text x='60' y='260' font-size='72' fill='#0a0a0f' font-family='serif'>We build the systems that make CTO-level architecture real — CTO-as-a-Service, Blockchain+DeFi, AI.</text>
+  <text x='60' y='310' font-size='18' fill='#1e1e28' font-family='sans-serif'>Engineering Intelligence.</text>
+  <rect x='60' y='360' width='220' height='48' rx='24' fill='#0a0a0f'/>
+  <text x='92' y='392' fill='#faf9f6' font-size='14'>Explore Services</text>
+  <text x='60' y='450' font-size='12' fill='#e07a5f' letter-spacing='0.12em'>RESPONSIVE BREAKPOINTS · MOBILE · TABLET · DESKTOP</text>
+  <!-- card row -->
+  <g>
+    <rect x='60' y='500' width='340' height='240' rx='16' fill='#fff' stroke='#e4e4e8'/>
+    <text x='80' y='540' fill='#c8a96e' font-size='11' letter-spacing='0.08em'>PILLAR 01</text>
+    <text x='80' y='580' font-size='22' fill='#0a0a0f' font-family='serif'>CTO-as-a-Service</text>
+    <text x='80' y='620' font-size='14' fill='#1e1e28'>Production-grade architecture without the hire.</text>
+  </g>
+  <g>
+    <rect x='460' y='500' width='340' height='240' rx='16' fill='#fff' stroke='#e4e4e8'/>
+    <text x='480' y='540' fill='#c8a96e' font-size='11' letter-spacing='0.08em'>PILLAR 02</text>
+    <text x='480' y='580' font-size='22' fill='#0a0a0f' font-family='serif'>Blockchain + DeFi</text>
+    <text x='480' y='620' font-size='14' fill='#1e1e28'>Smart contracts, protocols, and trust layers.</text>
+  </g>
+  <g>
+    <rect x='860' y='500' width='340' height='240' rx='16' fill='#fff' stroke='#e4e4e8'/>
+    <text x='880' y='540' fill='#e07a5f' font-size='11' letter-spacing='0.08em'>PILLAR 03</text>
+    <text x='880' y='580' font-size='22' fill='#0a0a0f' font-family='serif'>AI</text>
+    <text x='880' y='620' font-size='14' fill='#1e1e28'>Reasoning, agents, and production ML.</text>
+  </g>
+  <text x='60' y='790' fill='#0a0a0f' font-size='11' opacity='0.4'>DESIGN SYSTEM V1.0 · GOLD + INK + CORAL · INSTRUMENT SERIF + INTER</text>
+</svg>
